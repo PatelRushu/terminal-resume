@@ -16,18 +16,21 @@
                                                              
 
 
+==================================================================
 Name:     Rushabh Patel
 About:    Junior Full-Stack Developer
 Location: Moncton, NB
+==================================================================
 
 #Social Media
-
+==================================================================
 GitHub:   https://github.com/PatelRushu
 LinkedIn: https://www.linkedin.com/in/rushabh-patell/
 Website:  https://replit.com/@Rushabh05
+==================================================================
 
 #Work Experience
-
+==================================================================
 Warehouse Associate @Trade Technocrats
 January 2024 to April 2024
 
@@ -39,8 +42,10 @@ September 2022 to December 2023
 
 Freelancer Developer @CM Infotech
 December 2022 to September 2023
+==================================================================
 
 #Education
-
+==================================================================
 Bachelor of Science: Software Engineering @Centennial College
 December 2023
+==================================================================
